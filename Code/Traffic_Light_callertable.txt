@@ -1,0 +1,13 @@
+main
+	__CC2DW
+		____DoICP
+	Div_8X8_S
+	Automatic
+		Div_16x16_S
+			Div_16x16_S_L
+		Div_8X8_S
+	Manual
+		Div_16x16_S
+			Div_16x16_S_L
+		Div_8X8_S
+interrupt
